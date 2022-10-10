@@ -1,0 +1,61 @@
+html{
+
+background-color: grey;
+
+}
+
+
+#output{
+
+
+
+    background-color: white;
+    border-radius: 10px;
+    border-top: 10px solid #bb4455;
+    padding: 10px;
+    float: none;
+    text-align: left;
+    height: 100px;
+}
+#hello{
+
+
+background-color: blueviolet;
+color: white;
+
+
+
+}
+#r{
+
+
+color: white;
+
+
+
+}
+#m{
+
+color: white;
+
+
+}
+#q{
+
+
+color:white;
+
+}
+#n{
+background-color: white;
+border-radius: 30px;
+}
+
+#fan{
+
+
+background-color: greenyellow;
+width: 100px;
+border-radius: 40px;
+
+}
